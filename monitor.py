@@ -1,4 +1,3 @@
-```python
 import psutil
 import time
 import os
@@ -59,4 +58,3 @@ while True:
     print(Fore.MAGENTA + "\nRefreshing every 2 seconds...")
 
     time.sleep(2)
-```
