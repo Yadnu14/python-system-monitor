@@ -30,7 +30,6 @@ A real-time system monitoring tool built with Python to track system resource us
 sys-monitor/
 │
 ├── monitor.py
-├── logs.txt
 ├── requirements.txt
 ├── README.md
 ├── Dockerfile
